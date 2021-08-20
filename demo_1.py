@@ -1,10 +1,7 @@
 #!usr/bin/env python
 # -*- coding:utf-8 -*-
 """
-@author: bajijiang
-@file: demo_1.py
-@time: 2021/08/10
-@desc:
+
 """
 
 print('demo,git!1')
